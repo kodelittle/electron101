@@ -6,9 +6,11 @@ Thanks to @ https://scotch.io/tutorials/creating-desktop-applications-with-angul
 
 Install Node 
 
+`
 $ pwd 
 /Users/parthabhattacharjee/code
 $ node --version 
 v4.2.3
 $ npm --version 
 2.14.7
+`
